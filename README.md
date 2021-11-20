@@ -125,4 +125,9 @@ These functions are in charge of appearing the exit menu and take input from pla
 
 ![Image of Yaktocat](https://github.com/MohamedMamdouh18/basic-games/blob/main/Chess%20Game/Capture1.PNG)
 ![Image of Yaktocat](https://github.com/MohamedMamdouh18/basic-games/blob/main/Chess%20Game/Capture2.PNG)
+  
+  
+## Further help
+
+To get more help on the SDL libraries go check out the [SDL Official Website](https://www.libsdl.org/) Or [SDL Official WIKI](https://wiki.libsdl.org/).
 
