@@ -1,4 +1,4 @@
-#Chess Game
+# Chess Game
 
 ## Setup & Libraries:
 -SDL2 v2.0.14
