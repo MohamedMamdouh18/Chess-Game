@@ -1,3 +1,11 @@
+#Chess Game
+
+## Setup & Libraries:
+-SDL2 v2.0.14
+-SDL2_ttf v2.0.15
+-SDL2_mixer v2.0.4
+-SDL2_image v2.0.5
+
 ## <h2>Description of the application (the features):
 
 1.	Dead table: At the right side of the game window there is a table that calculate the number of beaten pieces.
@@ -119,3 +127,8 @@ These functions are in charge of appearing the exit menu and take input from pla
 ![Image of Yaktocat](https://github.com/MohamedMamdouh18/Chess-Game/blob/main/Resources/Capture1.PNG)
 ![Image of Yaktocat](https://github.com/MohamedMamdouh18/Chess-Game/blob/main/Resources/Capture2.PNG)
 
+  
+  
+## Further help
+
+To get more help on the SDL Libraries go check out the [SDL Official Website](https://www.libsdl.org/) OR [SDL Official WIKI](https://wiki.libsdl.org/).
