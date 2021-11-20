@@ -38,13 +38,13 @@
 
 We define a lot of arrays:
 
-1-There are 2 arrays ( game_pieces ) one for white pieces and the another for black pieces each one is contain of 16 elements each element is a structure for a piece in the game 
+1. There are 2 arrays ( game_pieces ) one for white pieces and the another for black pieces each one is contain of 16 elements each element is a structure for a piece in the game 
 
 each element in these arrays define a piece movement in the game it has valid.x and valid.y and present.x and present.y if the player mad a wrong move the piece return to it 
 
 valid co-ordinates and there is the name of the piece to check its move by the name
 
-2-There are 6 arrays ( buttons_shape ) We define in it all information for this button as ( the two coordinates,  the height of this button, the width of this button ) and this 
+2. There are 6 arrays ( buttons_shape ) We define in it all information for this button as ( the two coordinates,  the height of this button, the width of this button ) and this 
 
 structure for menu buttons (New game – load game – User manual – Exit game ) and game buttons (White king’s turn – black king’s turn -Undo – Redo) and promotion buttons ( Choose 
 
@@ -52,7 +52,7 @@ Promotion White King - Choose Promotion Black King – Queen – Knight – Rook
 
 Saving ) and dead table buttons ( the number of beaten pieces for each shape)
 
-3-There is (done_game_array ) array and it used for store every right move in the game each element is a structure define on it all the information about this done move that 
+3. There is (done_game_array ) array and it used for store every right move in the game each element is a structure define on it all the information about this done move that 
 
 each element in the array has ( the cooardinates of the last position at the game board and the game window, the cooardinates of the present coordinates at the game board and 
 
@@ -60,7 +60,7 @@ the game window, the value on the board game after and before the move, if this 
 
 move or not, the beaten piece in this round). 
 
-4-There are 2 matrices 8*8 ( board_game – board_main ) board game this is the most important data structure in the game we 8 and define on it the white pieces as (-1) and the 
+4. There are 2 matrices 8*8 ( board_game – board_main ) board game this is the most important data structure in the game we 8 and define on it the white pieces as (-1) and the 
 
 black pieces as (1) and the empty place as (0) and it is the most important part in the code because we make all functions using it and board main it defined at the new game
 
