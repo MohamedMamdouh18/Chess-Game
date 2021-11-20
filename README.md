@@ -1,13 +1,4 @@
-# Chess-Game
-
-## Setup & Libraries:
-using Libraries:
-- SDL2 v2.0.14
-- SDL2_ttf v2.0.15
-- SDL2_mixer v2.0.4
-- SDL2_image v2.0.5
-
-## Description of the application (the features):
+## <h2>Description of the application (the features):
 
 1.	Dead table: At the right side of the game window there is a table that calculate the number of beaten pieces.
 
@@ -35,7 +26,9 @@ using Libraries:
 
 
 
-## Description of all data structures:
+
+
+## <h2>Description of all data structures:
 
 We define a lot of arrays:
 
@@ -70,7 +63,7 @@ black pieces as (1) and the empty place as (0) and it is the most important part
 
 
 
-## Main functions: 
+## <h2>Main functions: 
 
 **( menu_setup – menu_process_input – render_menu )**
 
@@ -125,9 +118,4 @@ These functions are in charge of appearing the exit menu and take input from pla
 
 ![Image of Yaktocat](https://github.com/MohamedMamdouh18/basic-games/blob/main/Chess%20Game/Capture1.PNG)
 ![Image of Yaktocat](https://github.com/MohamedMamdouh18/basic-games/blob/main/Chess%20Game/Capture2.PNG)
-  
-  
-## Further help
-
-To get more help on the SDL libraries go check out the [SDL Official Website](https://www.libsdl.org/) Or [SDL Official WIKI](https://wiki.libsdl.org/).
 

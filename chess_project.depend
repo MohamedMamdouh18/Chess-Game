@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1611598539 source:m:\computerscience\chess_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
